@@ -1,10 +1,11 @@
-## Installation
+## Canvas Matrix
 ***
-A little intro about the installation.
+
+Voici un petit code pour un effet Matrix avec la balise canvas, réaliser avec de la documentation diverse et des vidéos d'exemple
+
+***
+Pour une copie rapide faite :
 ```
-$ git clone https://example.com
+$ git clone https://github.com/MAGICTNT/Matrix__canvas.git
 $ cd ../path/to/the/file
-$ npm install
-$ npm start
 ```
-Side information: To use the application in a special environment use ```lorem ipsum``` to start
