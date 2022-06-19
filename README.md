@@ -9,7 +9,7 @@ $ git clone https://github.com/MAGICTNT/Matrix__canvas.git
 $ cd ../path/to/the/file/Matrix__canvas
 ```
 ### Code en fonction
-[Live Code](https://portfolio-maxime-javaux.herokuapp.com/portfolio/matrix)
+[Live Code](#)
 
 ## // English
 
@@ -21,4 +21,4 @@ $ cd ../path/to/the/file/Matrix__canvas
 ```
 
 ### Code in fonction
-[Live Code](https://portfolio-maxime-javaux.herokuapp.com/portfolio/matrix)
+[Live Code](#)
